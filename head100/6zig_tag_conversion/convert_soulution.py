@@ -1,10 +1,13 @@
 """
+https://leetcode.cn/search/?q=LCR
 回头再搞剑指offer
+https://leetcode.cn/problems/zigzag-conversion/description/
+
 https://www.nowcoder.com/exam/oj/ta?page=1&tpId=13&type=13
+And then read line by line: "PAHNAPLSIIGYIR"
 
 注意只有在0行 numRows-1 变换方向向 上边界变为加   下边界变为减
 最终只保留每一行对应一个字符串
-
 
 """
 
