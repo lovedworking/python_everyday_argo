@@ -80,7 +80,7 @@ time limit exceeded
 
 the principle to consider is the dynamic expression
 
-   dp = [[0] * n for _ in range(m)]
+        dp = [[0] * n for _ in range(m)]
 
         # 初始化第一行和第一列的格子
         for i in range(m):
